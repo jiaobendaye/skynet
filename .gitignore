@@ -11,3 +11,6 @@
 *.dSYM
 .DS_Store
 .vscode
+.xmake
+build
+xmake.build
